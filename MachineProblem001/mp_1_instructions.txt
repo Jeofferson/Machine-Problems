@@ -1,0 +1,1 @@
+Remove substring/s from a given string. Built-in functions are not allowed.
