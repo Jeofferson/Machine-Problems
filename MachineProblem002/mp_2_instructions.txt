@@ -1,1 +1,1 @@
-Search a substring and return the last position of where it was found, rfind() or rindex() can solve the problem but you are not allowed to use such. Built-in functions are not allowed.
+Search a substring and return the last position of where it was found. rfind() or rindex() can solve the problem but you are not allowed to use such. Built-in functions are not allowed.
